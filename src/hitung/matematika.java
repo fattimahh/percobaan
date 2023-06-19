@@ -15,4 +15,19 @@ public class matematika {
     public double setPenjumlahan() {
         return bil1 + bil2;
     }
+    
+     //membuat method pengurangan
+    public double setPengurangan() {
+        return bil1 - bil2;
+    }
+    
+     //membuat method perkalian
+    public double setPerkalian() {
+        return bil1 * bil2;
+    }
+    
+     //membuat method pembagian
+    public double setPembagian() {
+        return bil1 / bil2;
+    }
 }
